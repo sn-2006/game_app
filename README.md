@@ -1,4 +1,4 @@
-Game Structure
+Game Structure/n
 Home Screen
   Welcome message and navigation to the simulation.
   Theme toggle button for switching between light and dark mode.
